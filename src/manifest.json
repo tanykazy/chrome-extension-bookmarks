@@ -7,6 +7,6 @@
     },
     "description": "Bookmark Manager",
     "permissions": [
-        "tabs"
+        "bookmarks"
     ]
 }
