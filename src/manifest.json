@@ -3,6 +3,7 @@
     "name": "Chrome Extension Bookmarks",
     "version": "1.0",
     "action": {
+        "default_title": "Bookmark Manager",
         "default_popup": "index.html"
     },
     "description": "Bookmark Manager",
